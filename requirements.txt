@@ -18,7 +18,7 @@ Markdown==3.0.1
 olefile==0.46
 paramiko==2.4.2
 Pillow==5.4.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 psycopg2==2.8.1
 pudb==2018.1
 pyasn1==0.4.5
